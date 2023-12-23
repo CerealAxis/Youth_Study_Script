@@ -14,7 +14,7 @@ Youth_Study_Script是一个基于Python开发的脚本，这个Python脚本通�
 
 ## 指南
 
-1. 下载Github仓库里的main.py脚本到本地计算机。 
+1. 下载Github仓库里的**main.py**脚本或者是Package文件夹里面的**main.exe**到本地计算机。 
 2. 确保安装了必要的Python库（`requests`）。
 3. 将下载的脚本放置在一个空文件夹下，第一次运行会生成一个mid.txt文件，用姓名替换 `姓名`（仅方便团支书标记mid对应哪位团员），用相应的数字代码替换 `mid数字代码`。如需添加更多mid只需参照格式往下添加即可。举个例子：
 ```
